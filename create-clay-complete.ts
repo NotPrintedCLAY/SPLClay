@@ -18,7 +18,7 @@ async function main() {
 
   // ==================== CONFIGURATION ====================
   // 🔧 GANTI URL LOGO INI DENGAN URL DARI NFT.STORAGE ANDA!
-  const LOGO_URL = "https://nft.storage/ipfs/YOUR_IPFS_HASH_HERE";
+  const LOGO_URL = "https://gateway.lighthouse.storage/ipfs/bafybeicm6ksizmmgf2q6d4c76tqihrvrtl4ly6bs5cygwctgq4ipd763li";
   
   // Jika Anda belum upload, gunakan placeholder ini dulu:
   // const LOGO_URL = "https://via.placeholder.com/400";
